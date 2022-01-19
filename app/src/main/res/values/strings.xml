@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SplashAndMenu</string>
+    <string name="text_title">ELECTROMECHANICAL REPAIRS AND AUTOMATISMS</string>
+    <string name="gear">gear</string>
+    <string name="version">Version 1.0\nCopyright © 2021\nAll Rights Reserved</string>
+    <string name="createdBy">Created by Alberto Serrano</string>
+
+    <string name="main">MAIN MENU</string>
+    <string name="play">PLAY GAME</string>
+    <string name="scores">SCORES</string>
+    <string name="settings">SETTINGS</string>
+    <string name="help">HELP</string>
+</resources>
